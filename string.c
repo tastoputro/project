@@ -1,4 +1,4 @@
-int main(void)
+const int main(void)
 {
    int i;
    char *s[] = 
